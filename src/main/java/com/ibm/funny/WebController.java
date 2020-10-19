@@ -1,4 +1,4 @@
-package com.example.funny;
+package com.ibm.funny;
 
 import java.io.IOException;
 import java.time.LocalDateTime;

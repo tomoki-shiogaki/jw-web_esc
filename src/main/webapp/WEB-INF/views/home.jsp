@@ -8,7 +8,7 @@
     <body>
         <div th:text="${data.name}"></div>
         <th:block th:text="${data.date}"/>
-        
+        <h1>JSP TEST</h1>
         <a href="http://192.168.1.73:8888/job01">job01</a>
     </body>
 </html>

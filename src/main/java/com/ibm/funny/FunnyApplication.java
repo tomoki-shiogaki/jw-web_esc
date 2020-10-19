@@ -1,4 +1,4 @@
-package com.example.funny;
+package com.ibm.funny;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
